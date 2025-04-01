@@ -148,7 +148,7 @@ private
 np:
 isString()
 
-62)
+62) C
 
 63) wszystkie prawidłowe
 
