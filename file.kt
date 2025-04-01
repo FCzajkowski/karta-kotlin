@@ -135,9 +135,9 @@ private
 
 53) open
 
-54)
-55)
-56)
+54) Odpowiedź numer E albo inaczej rzecz ujmując odpowiedź numer 5 :333
+55) super
+56) ::
 57) Any()
 58) lateinit
 59) wszystkie odp są prawidłowe
